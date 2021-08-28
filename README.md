@@ -9,4 +9,4 @@
          
 使用語言：HTML、CSS、PHP、RWD、MySQL
 
-內容介紹：Web01簡報介紹
+內容介紹：點選專案介紹簡報
